@@ -1,3 +1,4 @@
+#Angel David Ferreria Arambula 20/03/24
 import random
 
 # Lista de palabras para adivinar
